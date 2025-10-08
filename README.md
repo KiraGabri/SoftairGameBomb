@@ -1,5 +1,5 @@
 # SoftairGameBomb
-This project, developed as part of the **ARE 2022 university course**, aims to create a prototype of a functional replica of a bomb inspired by those seen in tactical shooter video games, designed for **airsoft “plant-the-bomb” scenarios**.
+This project was developed as an additional initiative during the **ARE 2022 university course**. It aims to create a prototype of a functional replica of a bomb inspired by those seen in tactical shooter video games, designed for **airsoft “plant-the-bomb” scenarios**.
 
 The system consists of two main components:  
 1. **Detonator (Bomb)**  
